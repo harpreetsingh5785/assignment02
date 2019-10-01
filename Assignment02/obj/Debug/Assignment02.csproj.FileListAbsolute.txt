@@ -1,0 +1,10 @@
+C:\Users\jass\source\repos\Assignment02\Assignment02\bin\Debug\Assignment02.exe.config
+C:\Users\jass\source\repos\Assignment02\Assignment02\bin\Debug\Assignment02.exe
+C:\Users\jass\source\repos\Assignment02\Assignment02\bin\Debug\Assignment02.pdb
+C:\Users\jass\source\repos\Assignment02\Assignment02\bin\Debug\nunit.framework.dll
+C:\Users\jass\source\repos\Assignment02\Assignment02\bin\Debug\nunit.framework.xml
+C:\Users\jass\source\repos\Assignment02\Assignment02\obj\Debug\Assignment02.csprojAssemblyReference.cache
+C:\Users\jass\source\repos\Assignment02\Assignment02\obj\Debug\Assignment02.csproj.CoreCompileInputs.cache
+C:\Users\jass\source\repos\Assignment02\Assignment02\obj\Debug\Assignment02.csproj.CopyComplete
+C:\Users\jass\source\repos\Assignment02\Assignment02\obj\Debug\Assignment02.exe
+C:\Users\jass\source\repos\Assignment02\Assignment02\obj\Debug\Assignment02.pdb
